@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI session transcripts - NEVER commit these (may contain secrets, file paths,
+# or content from unrelated sessions). Submit to Blackboard only.
+ai_transcript.md
+ai_transcript.zip
+*.transcript.md
